@@ -1,0 +1,57 @@
+---
+title: "Project"
+---
+
+# Project: Web Systems Project
+
+## Introduction
+
+One of the projects I've worked on is a website on being was titled **Software Solutions**. With our application, customers can easily start, manage, and stop their software plans, as well as take care of payments all in one spot.
+
+## Objectives
+
+The main objectives of the project were: 
+
+1. **Objective 1**: Simplify the process of managing software subscriptions
+2. **Objective 2**: Minimise the effort users need to spend on tracking multiple subscriptions
+3. **Objective 3**: Help users to make better decisions about adjusting their software needs
+
+## Methodology
+
+To achieve the objectives, the following methodology was adopted:
+
+- **Research**: Conducted extensive literature review to understand the different softwares available online.
+- **Design and Development**: Designed and developed a prototype website using Figma and did its UI
+- **Testing**: Implemented various testing methods to ensure the accuracy and reliability of the project outcomes.
+
+## Key Features
+
+Some of the key features of the project include:
+
+- **Feature 1**: A user side for users to purchase softwares
+- **Feature 2**: An admin side for admins to perform adding or removing of platforms and more
+- **Feature 3**: A PHP Mailer feature for users to receive conformations upon purchase
+
+## Database Overview
+
+![Database Overview](img/Screenshot1.png){width=80%}
+
+## A few pages from the Web Application
+
+- **Landing Page**: 
+
+![Landing Page 1](img/Screenshot2.png){width=80%}
+
+
+- **User Details **: 
+
+![User Details Page](img/Screenshot3.png){width=80%}
+
+- **Admin Details**:
+
+![Admin Page](img/Screenshot4.png){width=80%}
+
+## Conclusion
+
+In conclusion, our team has successfully created a fully functional website that delivers all of our objectives listed at the top. Our web application significantly eases the management of software subscriptions through an intuitive and secure website with working front end as well back end. 
+

@@ -1,0 +1,28 @@
+---
+title: "Welcome to My Quarto Project"
+author: "Nithiya"
+date: "14 May 2024"
+---
+
+# Welcome to My Quarto Project
+
+## About Me
+
+Hello! My name is Nithiya, and I am an Applied AI undergraduate. I created this Quarto project to share my hobbies and project. 
+
+![My Photo](img/me.jpg)
+
+## Introduction Video
+
+I dont have an intro video but here is my OOP project video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K1rTVoHm_Ec?si=4Cg7y7RAol6HFS2y" frameborder="0" allowfullscreen></iframe>
+
+Feel free to explore the rest of the site to learn more about my project and interests. If you have any questions or comments, don't hesitate to reach out!
+
+
+## Contact
+
+- Email: [2302704@sit.singaporetech.edu.sg](mailto:2302704@sit.singaporetech.edu.sg)
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/nithiyapriya-ramesh)
+
