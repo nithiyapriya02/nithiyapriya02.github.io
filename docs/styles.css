@@ -13,9 +13,33 @@ h1, h2, h3 {
     color: #333;
 }
 
+h1 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 10px;
+}
+
+h2 {
+    margin-top: 30px;
+    border-bottom: 1px solid #333;
+    padding-bottom: 5px;
+}
+
+h3 {
+    margin-top: 20px;
+}
+
 /* Paragraph Styles */
 p {
     margin-bottom: 1em;
+}
+
+/* List Styles */
+ul {
+    margin-bottom: 1em;
+}
+
+li {
+    margin-bottom: 0.5em;
 }
 
 /* Image Styles */
@@ -23,7 +47,7 @@ img {
     max-width: 100%;
     height: auto;
     border-radius: 10px;
-    
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 /* Iframe Styles */
@@ -32,8 +56,8 @@ iframe {
     border: none;
 }
 
-/* About Me Section */
-.about-me {
+/* Section Styles */
+#introduction {
     background-color: #ffffff;
     padding: 20px;
     border-radius: 10px;
@@ -41,8 +65,7 @@ iframe {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-/* Video Container */
-.video-container {
+#objectives, #methodology, #key-features, #database-overview, #pages, #conclusion {
     background-color: #e9ecef;
     padding: 20px;
     border-radius: 10px;
@@ -50,29 +73,6 @@ iframe {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-/* Contact Info */
-.contact-info {
-    background-color: #ffffff;
-    padding: 20px;
-    border-radius: 10px;
-    margin-bottom: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-.contact-info a {
-    color: #1a0dab;
-    text-decoration: none;
-}
-
-.contact-info a:hover {
-    text-decoration: underline;
-}
-
-.contact-info ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-.contact-info li {
+#pages img {
     margin-bottom: 10px;
 }

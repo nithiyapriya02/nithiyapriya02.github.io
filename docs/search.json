@@ -26,5 +26,61 @@
     "title": "Welcome to My Quarto Project",
     "section": "",
     "text": "Email: 2302704@sit.singaporetech.edu.sg\nLinkedIn: Nithiyapriya’s Profile"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Project",
+    "section": "",
+    "text": "One of the projects I’ve worked on is a website on being was titled Software Solutions. With our application, customers can easily start, manage, and stop their software plans, as well as take care of payments all in one spot.\n\n\n\nThe main objectives of the project were:\n\nObjective 1: Simplify the process of managing software subscriptions\nObjective 2: Minimise the effort users need to spend on tracking multiple subscriptions\nObjective 3: Help users to make better decisions about adjusting their software needs\n\n\n\n\nTo achieve the objectives, the following methodology was adopted:\n\nResearch: Conducted extensive literature review to understand the different softwares available online.\nDesign and Development: Designed and developed a prototype website using Figma and did its UI\nTesting: Implemented various testing methods to ensure the accuracy and reliability of the project outcomes.\n\n\n\n\nSome of the key features of the project include:\n\nFeature 1: A user side for users to purchase softwares\nFeature 2: An admin side for admins to perform adding or removing of platforms and more\nFeature 3: A PHP Mailer feature for users to receive conformations upon purchase\n\n\n\n\n\n\n\nDatabase Overview\n\n\n\n\n\n\nLanding Page:\n\n\n\n\nLanding Page 1\n\n\n\nUser Details :\n\n\n\n\nUser Details Page\n\n\n\nAdmin Details:\n\n\n\n\nAdmin Page\n\n\n\n\n\nIn conclusion, our team has successfully created a fully functional website that delivers all of our objectives listed at the top. Our web application significantly eases the management of software subscriptions through an intuitive and secure website with working front end as well back end."
+  },
+  {
+    "objectID": "project.html#introduction",
+    "href": "project.html#introduction",
+    "title": "Project",
+    "section": "",
+    "text": "One of the projects I’ve worked on is a website on being was titled Software Solutions. With our application, customers can easily start, manage, and stop their software plans, as well as take care of payments all in one spot."
+  },
+  {
+    "objectID": "project.html#objectives",
+    "href": "project.html#objectives",
+    "title": "Project",
+    "section": "",
+    "text": "The main objectives of the project were:\n\nObjective 1: Simplify the process of managing software subscriptions\nObjective 2: Minimise the effort users need to spend on tracking multiple subscriptions\nObjective 3: Help users to make better decisions about adjusting their software needs"
+  },
+  {
+    "objectID": "project.html#methodology",
+    "href": "project.html#methodology",
+    "title": "Project",
+    "section": "",
+    "text": "To achieve the objectives, the following methodology was adopted:\n\nResearch: Conducted extensive literature review to understand the different softwares available online.\nDesign and Development: Designed and developed a prototype website using Figma and did its UI\nTesting: Implemented various testing methods to ensure the accuracy and reliability of the project outcomes."
+  },
+  {
+    "objectID": "project.html#key-features",
+    "href": "project.html#key-features",
+    "title": "Project",
+    "section": "",
+    "text": "Some of the key features of the project include:\n\nFeature 1: A user side for users to purchase softwares\nFeature 2: An admin side for admins to perform adding or removing of platforms and more\nFeature 3: A PHP Mailer feature for users to receive conformations upon purchase"
+  },
+  {
+    "objectID": "project.html#database-overview",
+    "href": "project.html#database-overview",
+    "title": "Project",
+    "section": "",
+    "text": "Database Overview"
+  },
+  {
+    "objectID": "project.html#a-few-pages-from-the-web-application",
+    "href": "project.html#a-few-pages-from-the-web-application",
+    "title": "Project",
+    "section": "",
+    "text": "Landing Page:\n\n\n\n\nLanding Page 1\n\n\n\nUser Details :\n\n\n\n\nUser Details Page\n\n\n\nAdmin Details:\n\n\n\n\nAdmin Page"
+  },
+  {
+    "objectID": "project.html#conclusion",
+    "href": "project.html#conclusion",
+    "title": "Project",
+    "section": "",
+    "text": "In conclusion, our team has successfully created a fully functional website that delivers all of our objectives listed at the top. Our web application significantly eases the management of software subscriptions through an intuitive and secure website with working front end as well back end."
   }
 ]
