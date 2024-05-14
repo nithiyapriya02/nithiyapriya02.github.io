@@ -1,18 +1,77 @@
-/* css styles */
+/* General Styles */
 body {
-  font-family: Arial, sans-serif;
-  font-size: 16px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
 }
 
+/* Header Styles */
+h1, h2, h3 {
+    color: #333;
+}
+
+/* Paragraph Styles */
 p {
-  margin: 0;
-  padding: 0;
-  line-height: 1.2;
+    margin-bottom: 1em;
 }
 
-h1,h2 {
-  font-size: 16pt;
+/* Image Styles */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
 }
-h3,h4 {
-  font-size: 14pt;
+
+/* Iframe Styles */
+iframe {
+    max-width: 100%;
+    border: none;
+}
+
+/* About Me Section */
+.about-me {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Video Container */
+.video-container {
+    background-color: #e9ecef;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Contact Info */
+.contact-info {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.contact-info a {
+    color: #1a0dab;
+    text-decoration: none;
+}
+
+.contact-info a:hover {
+    text-decoration: underline;
+}
+
+.contact-info ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.contact-info li {
+    margin-bottom: 10px;
 }
