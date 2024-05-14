@@ -16,15 +16,18 @@ In 2023, I had the opportunity to visit Europe, a country renowned for its rich 
 
 ### Highlights
 
-- **London**: The bustling metropolis of Tokyo left a lasting impression on me. The seamless blend of traditional temples and modern skyscrapers was awe-inspiring.
-- **Vienna**: Visiting Kyoto allowed me to experience Japan's historical and cultural heritage. The serene temples and beautiful gardens provided a peaceful retreat.
-- **Prague**: Japanese cuisine, with its emphasis on fresh, seasonal ingredients, introduced me to new flavors and culinary techniques.
+- **London**: The bustling metropolis of London left a lasting impression on me. The seamless blend of traditional temples and modern skyscrapers was awe-inspiring.
 
-### Influence
+![London](img/img1.webp)
 
-My trip to Euorope taught me the importance of balance between tradition and modernity. It also inspired me to appreciate the beauty in simplicity and mindfulness in daily life. 
 
-![Kyoto Temple](path/to/kyoto_temple.jpg)
+- **Vienna**: Visiting Vienna in Austria allowed me to experience its's historical and cultural heritage. The churches and beautiful gardens provided a peaceful retreat.
+
+![Vienna](img/img2.jpeg)
+
+- **Prague**: Czech cuisine, with its emphasis on fresh, seasonal ingredients, introduced me to new flavors and culinary techniques.
+
+![Prague](img/img3.jpeg)
 
 
 ## Conclusion
