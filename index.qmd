@@ -10,7 +10,7 @@ date: "14 May 2024"
 
 Hello! My name is Nithiya, and I am an Applied AI undergraduate. I created this Quarto project to share my hobbies and project. 
 
-![My Photo](/Users/nithiyapriyaramesh/Desktop/nithiyapriya02.github.io/img/me.jpg)
+![My Photo](img/me.jpg)
 
 ## Introduction Video
 
